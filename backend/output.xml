@@ -1,0 +1,3132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[62hDety28pXLmtwb1aDTA]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='63691926' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="40" total="111">
+    <review>
+  <id>3405477594</id>
+    <book>
+  <id type="integer">7604</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15685</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zTgflENcjmjMrquC5OFsvg</uri>
+  <title>Lolita</title>
+  <title_without_series>Lolita</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7604.Lolita</link>
+  <num_pages>331</num_pages>
+  <format>Paperback</format>
+  <edition_information>New Edition, Penguin Modern Classics</edition_information>
+  <publisher>Penguin</publisher>
+  <publication_day/>
+  <publication_year>1995</publication_year>
+  <publication_month/>
+  <average_rating>3.89</average_rating>
+  <ratings_count>645781</ratings_count>
+  <description>Humbert Humbert - scholar, aesthete and romantic - has fallen completely and utterly in love with Lolita Haze, his landlady's gum-snapping, silky skinned twelve-year-old daughter. Reluctantly agreeing to marry Mrs Haze just to be close to Lolita, Humbert suffers greatly in the pursuit of romance; but when Lo herself starts looking for attention elsewhere, he will carry her off on a desperate cross-country misadventure, all in the name of Love. Hilarious, flamboyant, heart-breaking and full of ingenious word play, Lolita is an immaculate, unforgettable masterpiece of obsession, delusion and lust.</description>
+<authors>
+<author>
+<id>5152</id>
+<name>Vladimir Nabokov</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482502806p5/5152.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482502806p2/5152.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5152.Vladimir_Nabokov]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>1142391</ratings_count>
+<text_reviews_count>44227</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>1268631</id>
+  <uri>kca://work/amzn1.gr.work.v1.dMjeaMPyiD1Oy11ZF_vVJw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='3044606818' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 22 11:43:53 -0700 2020</date_added>
+  <date_updated>Mon Jun 22 11:43:59 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3405477594]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3405477594]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3398102870</id>
+    <book>
+  <id type="integer">234225</id>
+  <isbn>0340839937</isbn>
+  <isbn13>9780340839935</isbn13>
+  <text_reviews_count type="integer">12505</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qA9y6PUyueZgrPslU9-nRw</uri>
+  <title>Dune (Dune Chronicles, #1)</title>
+  <title_without_series>Dune</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434908555l/234225._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434908555l/234225._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/234225.Dune</link>
+  <num_pages>604</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hodder &amp; Stoughton</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>713957</ratings_count>
+  <description>Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the 'spice' melange, the most important and valuable substance in the cosmos. The story explores the complex, multi-layered interactions of politics, religion, ecology, technology, and human emotion as the forces of the empire confront each other for control of Arrakis.&lt;br /&gt;&lt;br /&gt;Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world's best-selling sf novel.</description>
+<authors>
+<author>
+<id>58</id>
+<name>Frank Herbert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1591018335p5/58.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1591018335p2/58.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>1219618</ratings_count>
+<text_reviews_count>32743</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3634639</id>
+  <uri>kca://work/amzn1.gr.work.v1.dzn2KcfMTbv4_Y7J--YkzQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='3037384384' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 17 23:10:07 -0700 2020</date_added>
+  <date_updated>Wed Jun 17 23:10:12 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3398102870]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3398102870]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3387502203</id>
+    <book>
+  <id type="integer">6334</id>
+  <isbn>1400078776</isbn>
+  <isbn13>9781400078776</isbn13>
+  <text_reviews_count type="integer">23790</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.t3ESMobC-9O2YByR0RqA6g</uri>
+  <title>Never Let Me Go</title>
+  <title_without_series>Never Let Me Go</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6334.Never_Let_Me_Go</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Books </publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>450607</ratings_count>
+  <description>From the Booker Prize-winning author of &lt;i&gt;The Remains of the Day&lt;/i&gt; and &lt;i&gt;When We Were Orphans&lt;/i&gt;, comes an unforgettable edge-of-your-seat mystery that is at once heartbreakingly tender and morally courageous about what it means to be human.&lt;br /&gt;&lt;br /&gt;Hailsham seems like a pleasant English boarding school, far from the influences of the city. Its students are well tended and supported, trained in art and literature, and become just the sort of people the world wants them to be. But, curiously, they are taught nothing of the outside world and are allowed little contact with it.&lt;br /&gt;&lt;br /&gt;Within the grounds of Hailsham, Kathy grows from schoolgirl to young woman, but it’s only when she and her friends Ruth and Tommy leave the safe grounds of the school (as they always knew they would) that they realize the full truth of what Hailsham is.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Never Let Me Go&lt;/i&gt; breaks through the boundaries of the literary novel. It is a gripping mystery, a beautiful love story, and also a scathing critique of human arrogance and a moral examination of how we treat the vulnerable and different in our society. In exploring the themes of memory and the impact of the past, Ishiguro takes on the idea of a possible future to create his most moving and powerful book to date.</description>
+<authors>
+<author>
+<id>4280</id>
+<name>Kazuo Ishiguro</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424906625p5/4280.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424906625p2/4280.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>809473</ratings_count>
+<text_reviews_count>63180</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>1499998</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z4gC--jsCarRwWlyoQp-VQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='3026912543' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 11 21:00:09 -0700 2020</date_added>
+  <date_updated>Thu Jun 11 21:00:12 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3387502203]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3387502203]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3357197546</id>
+    <book>
+  <id type="integer">8928984</id>
+  <isbn>0062063006</isbn>
+  <isbn13>9780062063007</isbn13>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Zu13KveIlliBkmZ9qRiX2Q</uri>
+  <title>Fire On The Horizon: The Untold Story Of The Gulf Oil Disaster</title>
+  <title_without_series>Fire On The Horizon: The Untold Story Of The Gulf Oil Disaster</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8928984-fire-on-the-horizon</link>
+  <num_pages>270</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>310</ratings_count>
+  <description>&lt;blockquote&gt; &lt;p&gt; A real-life thriller in the tradition of &lt;i&gt;The Perfect Storm&lt;/i&gt; &lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt; In the spring of 2010 the world watched for weeks as more than 200 million gallons of crude oil billowed from a hole three miles deep in the Gulf of Mexico. Warnings of various and imminent environmental consequences dominated the news. Deepwater drilling—largely ignored or misunderstood to that point—exploded in the American consciousness in the worst way possible. &lt;/p&gt; &lt;p&gt; &lt;i&gt;Fire on the Horizon&lt;/i&gt;, written by veteran oil rig captain John Konrad and longtime &lt;i&gt;Washington Post&lt;/i&gt; journalist Tom Shroder, recounts in vivid detail the life of the rig itself, from its construction in South Korea in the year 2000 to its improbable journey around the world to its disastrous end, and reveals the day-to-day lives, struggles, and ambitions of those who called it home. &lt;/p&gt; &lt;p&gt; From the little-known maritime colleges to Transocean's training schools and Houston headquarters to the small towns all over the country where the wives and children of the Horizon's crew lived in the ever-present shadow of risk hundreds of miles away, &lt;i&gt;Fire on the Horizon&lt;/i&gt; offers full-scale portraits of the Horizon's captain, its chief mate, its chief mechanic, and others. &lt;/p&gt; &lt;p&gt; What emerges is a white-knuckled chronicle of engineering hubris at odds with the earth itself, an unusual manifestation of corporate greed and the unforgettable heroism of the men and women on board the Deepwater Horizon. Here is the harrowing minute-by-minute account of the fateful day, April 20, 2010, when the half-billion-dollar rig blew up, taking with it the lives of eleven people and leaving behind a swath of unprecedented natural destruction. &lt;/p&gt;</description>
+<authors>
+<author>
+<id>4082542</id>
+<name>John Konrad</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1374688461p5/4082542.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1374688461p2/4082542.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4082542.John_Konrad]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>307</ratings_count>
+<text_reviews_count>42</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>13805481</id>
+  <uri>kca://work/amzn1.gr.work.v1.kz1jqsIhfdOCKMDoW51gDQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2996734991' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 26 00:56:59 -0700 2020</date_added>
+  <date_updated>Tue May 26 00:57:07 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3357197546]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3357197546]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3357196770</id>
+    <book>
+  <id type="integer">6617037</id>
+  <isbn>1933633867</isbn>
+  <isbn13>9781933633862</isbn13>
+  <text_reviews_count type="integer">1295</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KToqGLYOmnTYc_fGg1a6AQ</uri>
+  <title>Debt: The First 5,000 Years</title>
+  <title_without_series>Debt: The First 5,000 Years</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6617037-debt</link>
+  <num_pages>534</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Melville House Publishing</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>11345</ratings_count>
+  <description>&lt;b&gt;Before there was money, there was debt&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Every economics textbook says the same thing: Money was invented to replace onerous and complicated barter systems—to relieve ancient people from having to haul their goods to market. The problem with this version of history? There’s not a shred of evidence to support it.&lt;br /&gt;&lt;br /&gt;Here anthropologist David Graeber presents a stunning reversal of conventional wisdom. He shows that for more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors. &lt;br /&gt;&lt;br /&gt; Graeber shows that arguments about debt and debt forgiveness have been at the center of political debates from Italy to China, as well as sparking innumerable insurrections. He also brilliantly demonstrates that the language of the ancient works of law and religion (words like “guilt,” “sin,” and “redemption”) derive in large part from ancient debates about debt, and shape even our most basic ideas of right and wrong. We are still fighting these battles today without knowing it.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Debt: The First 5,000 Years &lt;/i&gt;is a fascinating chronicle of this little known history—as well as how it has defined human history, and what it means for the credit crisis of the present day and the future of our economy.</description>
+<authors>
+<author>
+<id>29101</id>
+<name>David Graeber</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479657149p5/29101.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479657149p2/29101.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29101.David_Graeber]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>24361</ratings_count>
+<text_reviews_count>3149</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>6811142</id>
+  <uri>kca://work/amzn1.gr.work.v1.HgcSPFINM7y7vjEDjELTeA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2996734187' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 26 00:56:01 -0700 2020</date_added>
+  <date_updated>Tue May 26 00:56:03 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3357196770]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3357196770]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3351685121</id>
+    <book>
+  <id type="integer">17349092</id>
+  <isbn>0062079603</isbn>
+  <isbn13>9780062079602</isbn13>
+  <text_reviews_count type="integer">458</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uhh0jS1B93vy-EXFby0Dzw</uri>
+  <title>The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible</title>
+  <title_without_series>The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363289122l/17349092._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363289122l/17349092._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17349092-the-men-who-united-the-states</link>
+  <num_pages>496</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>3333</ratings_count>
+  <description>&lt;b&gt;The acclaimed New York Times bestselling author of Atlantic delivers his first book about America: a fascinating look at the men whose efforts and achievements helped unify the States and create one cohesive nation&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;"History is rarely as charming and entertaining as when it's told by Simon Winchester."-New York Times Book Review&lt;br /&gt;&lt;br /&gt;For more than two centuries, E pluribus unum-Out of many, one-has been featured on America's official government seals and stamped on its currency. But how did America become "one nation, indivisible"? What unified a growing number of disparate states into the modern country we recognize today? In this monumental history, Simon Winchester addresses these questions, bringing together the breathtaking achievements that helped forge and unify America and the pioneers who have toiled fearlessly to discover, connect, and bond the citizens and geography of the U.S.A. from its beginnings.&lt;br /&gt;&lt;br /&gt;Winchester follows in the footsteps of America's most essential explorers, thinkers, and innovators, including Lewis and Clark and their Corps of Discovery Expedition to the Pacific Coast, the builders of the first transcontinental telegraph, and the powerful civil engineer behind the Interstate Highway System. He treks vast swaths of territory, from Pittsburgh to Portland; Rochester to San Francisco; Truckee to Laramie; Seattle to Anchorage, introducing these fascinating men and others-some familiar, some forgotten, some hardly known-who played a pivotal role in creating today's United States. Throughout, he ponders whether the historic work of uniting the States has succeeded, and to what degree.&lt;br /&gt;&lt;br /&gt;Featuring 32 illustrations throughout the text, The Men Who United the States is a fresh, lively, and erudite look at the way in which the most powerful nation on earth came together, from one of our most entertaining, probing, and insightful observers.</description>
+<authors>
+<author>
+<id>14053</id>
+<name>Simon Winchester</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286848563p5/14053.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286848563p2/14053.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14053.Simon_Winchester]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>158687</ratings_count>
+<text_reviews_count>12467</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>24034550</id>
+  <uri>kca://work/amzn1.gr.work.v1.LE5Ag5rXbxh6wLHE0uZZBw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2991327382' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 23 00:48:33 -0700 2020</date_added>
+  <date_updated>Sat May 23 00:48:59 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3351685121]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3351685121]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3300466859</id>
+    <book>
+  <id type="integer">25014</id>
+  <isbn>0060931809</isbn>
+  <isbn13>9780060931803</isbn13>
+  <text_reviews_count type="integer">555</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DxKtxB9E6iFCHAwIQQlhnw</uri>
+  <title>The Map That Changed the World: William Smith and the Birth of Modern Geology</title>
+  <title_without_series>The Map That Changed the World: William Smith and the Birth of Modern Geology</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25014.The_Map_That_Changed_the_World</link>
+  <num_pages>329</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Perennial Edition</edition_information>
+  <publisher>Perennial</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>11568</ratings_count>
+  <description>In 1793, a canal digger named William Smith made a startling discovery. He found that by tracing the placement of fossils, which he uncovered in his excavations, one could follow layers of rocks as they dipped and rose and fell -- clear across England and, indeed, clear across the world -- making it possible, for the first time ever, to draw a chart of the hidden underside of the earth. Determined to expose what he realized was the landscape's secret fourth dimension, Smith spent twenty-two years piecing together the fragments of this unseen universe to create an epochal and remarkably beautiful hand-painted map. But instead of receiving accolades and honors, he ended up in debtors' prison, the victim of plagiarism, and virtually homeless for ten years more. Finally, in 1831, this quiet genius -- now known as the father of modern geology -- received the Geological Society of London's highest award and King William IV offered him a lifetime pension.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Map That Changed the World&lt;/i&gt; is a very human tale of endurance and achievement, of one man's dedication in the face of ruin. With a keen eye and thoughtful detail, Simon Winchester unfolds the poignant sacrifice behind this world-changing discovery.</description>
+<authors>
+<author>
+<id>14053</id>
+<name>Simon Winchester</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286848563p5/14053.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286848563p2/14053.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14053.Simon_Winchester]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>158687</ratings_count>
+<text_reviews_count>12467</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1413457</id>
+  <uri>kca://work/amzn1.gr.work.v1.f70pxBni6o8XJuQ1wLVHlQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2941537005' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 25 05:41:30 -0700 2020</date_added>
+  <date_updated>Sat Apr 25 05:41:32 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3300466859]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3300466859]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3285391948</id>
+    <book>
+  <id type="integer">6493208</id>
+  <isbn>1400052173</isbn>
+  <isbn13>9781400052172</isbn13>
+  <text_reviews_count type="integer">29671</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._7-9Y5M5fK8bUSkjHjFNqQ</uri>
+  <title>The Immortal Life of Henrietta Lacks</title>
+  <title_without_series>The Immortal Life of Henrietta Lacks</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks</link>
+  <num_pages>370</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Publishing Group</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>565587</ratings_count>
+  <description>Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor Southern tobacco farmer who worked the same land as her slave ancestors, yet her cells—taken without her knowledge—became one of the most important tools in medicine. The first “immortal” human cells grown in culture, they are still alive today, though she has been dead for more than sixty years. If you could pile all HeLa cells ever grown onto a scale, they’d weigh more than 50 million metric tons—as much as a hundred Empire State Buildings. HeLa cells were vital for developing the polio vaccine; uncovered secrets of cancer, viruses, and the atom bomb’s effects; helped lead to important advances like in vitro fertilization, cloning, and gene mapping; and have been bought and sold by the billions.&lt;p&gt;Yet Henrietta Lacks remains virtually unknown, buried in an unmarked grave.&lt;/p&gt;&lt;p&gt;Now Rebecca Skloot takes us on an extraordinary journey, from the “colored” ward of Johns Hopkins Hospital in the 1950s to stark white laboratories with freezers full of HeLa cells; from Henrietta’s small, dying hometown of Clover, Virginia — a land of wooden slave quarters, faith healings, and voodoo — to East Baltimore today, where her children and grandchildren live and struggle with the legacy of her cells.&lt;/p&gt;&lt;p&gt;Henrietta’s family did not learn of her “immortality” until more than twenty years after her death, when scientists investigating HeLa began using her husband and children in research without informed consent. And though the cells had launched a multimillion-dollar industry that sells human biological materials, her family never saw any of the profits. As Rebecca Skloot so brilliantly shows, the story of the Lacks family — past and present — is inextricably connected to the dark history of experimentation on African Americans, the birth of bioethics, and the legal battles over whether we control the stuff we are made of.&lt;/p&gt;&lt;p&gt;Over the decade it took to uncover this story, Rebecca became enmeshed in the lives of the Lacks family—especially Henrietta’s daughter Deborah, who was devastated to learn about her mother’s cells. She was consumed with questions: Had scientists cloned her mother? Did it hurt her when researchers infected her cells with viruses and shot them into space? What happened to her sister, Elsie, who died in a mental institution at the age of fifteen? And if her mother was so important to medicine, why couldn’t her children afford health insurance?&lt;/p&gt;&lt;p&gt;Intimate in feeling, astonishing in scope, and impossible to put down, &lt;i&gt;The Immortal Life of Henrietta Lacks&lt;/i&gt; captures the beauty and drama of scientific discovery, as well as its human consequences.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>2940640</id>
+<name>Rebecca Skloot</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291156030p5/2940640.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291156030p2/2940640.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2940640.Rebecca_Skloot]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>567117</ratings_count>
+<text_reviews_count>34085</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>6684634</id>
+  <uri>kca://work/amzn1.gr.work.v1.7GCC_sT0t36kTkJalDCj5w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2926985789' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Apr 17 00:39:06 -0700 2020</date_added>
+  <date_updated>Fri Apr 17 00:39:19 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3285391948]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3285391948]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3275763514</id>
+    <book>
+  <id type="integer">18077903</id>
+  <isbn>0812993012</isbn>
+  <isbn13>9780812993011</isbn13>
+  <text_reviews_count type="integer">3333</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BaCPCxDEWZB4Y8SNvYh1HA</uri>
+  <title>Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+  <title_without_series>Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400863577l/18077903._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400863577l/18077903._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18077903-creativity-inc</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>60422</ratings_count>
+  <description>&lt;i&gt;“What does it mean to manage well?”&lt;/i&gt;&lt;br /&gt;From Ed Catmull, co-founder (with Steve Jobs and John Lasseter) of Pixar Animation Studios, comes an incisive book about creativity in business—sure to appeal to readers of Daniel Pink, Tom Peters, and Chip and Dan Heath. &lt;i&gt;Creativity, Inc.&lt;/i&gt; is a book for managers who want to lead their employees to new heights, a manual for anyone who strives for originality, and the first-ever, all-access trip into the nerve center of Pixar Animation—into the meetings, postmortems, and “Braintrust” sessions where some of the most successful films in history are made. It is, at heart, a book about how to build a creative culture—but it is also, as Pixar co-founder and president Ed Catmull writes, “an expression of the ideas that I believe make the best in us possible.” For nearly twenty years, Pixar has dominated the world of animation, producing such beloved films as the &lt;i&gt;Toy Story&lt;/i&gt; trilogy, &lt;i&gt;Monsters, Inc., Finding Nemo, The Incredibles, Up, &lt;/i&gt;and&lt;i&gt; WALL-E, &lt;/i&gt;which have gone on to set box-office records and garner thirty Academy Awards. The joyousness of the storytelling, the inventive plots, the emotional authenticity: In some ways, Pixar movies are an object lesson in what creativity really &lt;i&gt;is&lt;/i&gt;. Here, in this book, Catmull reveals the ideals and techniques that have made Pixar so widely admired—and so profitable.&lt;br /&gt;  &lt;br /&gt; As a young man, Ed Catmull had a dream: to make the first computer-animated movie. He nurtured that dream as a Ph.D. student at the University of Utah, where many computer science pioneers got their start, and then forged a partnership with George Lucas that led, indirectly, to his founding Pixar with Steve Jobs and John Lasseter in 1986. Nine years later, &lt;i&gt;Toy Story&lt;/i&gt; was released, changing animation forever. The essential ingredient in that movie’s success—and in the thirteen movies that followed—was the unique environment that Catmull and his colleagues built at Pixar, based on philosophies that protect the creative process and defy convention, such as:&lt;br /&gt;  &lt;br /&gt; • Give a good idea to a mediocre team, and they will screw it up. But give a mediocre idea to a great team, and they will either fix it or come up with something better.&lt;br /&gt; • If you don’t strive to uncover what is unseen and understand its nature, you will be ill prepared to lead. &lt;br /&gt; • It’s not the manager’s job to prevent risks. It’s the manager’s job to make it safe for others to take them.&lt;br /&gt; • The cost of preventing errors is often far greater than the cost of fixing them. &lt;br /&gt; • A company’s communication structure should not mirror its organizational structure. Everybody should be able to talk to anybody.&lt;br /&gt; • Do not assume that general agreement will lead to change—it takes substantial energy to move a group, even when all are on board.</description>
+<authors>
+<author>
+<id>5618463</id>
+<name>Ed Catmull</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404701341p5/5618463.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404701341p2/5618463.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5618463.Ed_Catmull]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>60977</ratings_count>
+<text_reviews_count>3936</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25384143</id>
+  <uri>kca://work/amzn1.gr.work.v1.N9UZ8Q8SBQ5UJqhhREnSRw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2917771269' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 11 21:52:51 -0700 2020</date_added>
+  <date_updated>Sat Apr 11 21:52:57 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3275763514]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3275763514]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3262158497</id>
+    <book>
+  <id type="integer">26593431</id>
+  <isbn>1626566747</isbn>
+  <isbn13>9781626566743</isbn13>
+  <text_reviews_count type="integer">348</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BM6EU2afT3SXxEJBWEZotQ</uri>
+  <title>The New Confessions of an Economic Hit Man</title>
+  <title_without_series>The New Confessions of an Economic Hit Man</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451248392l/26593431._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451248392l/26593431._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26593431-the-new-confessions-of-an-economic-hit-man</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Berrett-Koehler Publishers</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>3551</ratings_count>
+  <description>Shocking Bestseller: The original version of this astonishing tell-all book spent 73 weeks on the New York Times bestseller list, has sold more than 1.25 million copies, and has been translated into 32 languages. &lt;br /&gt;New Revelations: Featuring 15 explosive new chapters, this expanded edition of Perkins's classic bestseller brings the story of economic hit men (EHMs) up to date and, chillingly, home to the US. Over 40 percent of the book is new, including chapters identifying today's EHMs and a detailed chronology extensively documenting EHM activity since the first edition was published in 2004. &lt;br /&gt;Former economic hit man John Perkins shares new details about the ways he and others cheated countries around the globe out of trillions of dollars. Then he reveals how the deadly EHM cancer he helped create has spread far more widely and deeply than ever in the US and everywhere else to become the dominant system of business, government, and society today. Finally, he gives an insider view of what we each can do to change it. &lt;br /&gt;Economic hit men are the shock troops of what Perkins calls the corporatocracy, a vast network of corporations, banks, colluding governments, and the rich and powerful people tied to them. If the EHMs can't maintain the corrupt status quo through nonviolent coercion, the jackal assassins swoop in. The heart of this book is a completely new section, over 100 pages long, that exposes the fact that all the EHM and jackal tools false economics, false promises, threats, bribes, extortion, debt, deception, coups, assassinations, unbridled military power are used around the world today exponentially more than during the era Perkins exposed over a decade ago. &lt;br /&gt;The material in this new section ranges from the Seychelles, Honduras, Ecuador, and Libya to Turkey, Western Europe, Vietnam, China, and, in perhaps the most unexpected and sinister development, the United States, where the new EHMs bankers, lobbyists, corporate executives, and others con governments and the public into submitting to policies that make the rich richer and the poor poorer. &lt;br /&gt;But as dark as the story gets, this reformed EHM also provides hope. Perkins offers a detailed list of specific actions each of us can take to transform what he calls a failing Death Economy into a Life Economy that provides sustainable abundance for all.&lt;br /&gt;"</description>
+<authors>
+<author>
+<id>1452</id>
+<name>John Perkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232540637p5/1452.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232540637p2/1452.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1452.John_Perkins]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>39704</ratings_count>
+<text_reviews_count>4209</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>46615571</id>
+  <uri>kca://work/amzn1.gr.work.v1.w_qvoIif6afbP05HOnPAHQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2904473252' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 04 01:12:41 -0700 2020</date_added>
+  <date_updated>Sat Apr 04 01:12:45 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3262158497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3262158497]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3252011197</id>
+    <book>
+  <id type="integer">52300107</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">468</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v3.N8uOBkyYYG15l2lM</uri>
+  <title>Caffeine: How Caffeine Created the Modern World</title>
+  <title_without_series>Caffeine: How Caffeine Created the Modern World</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583959496l/52300107._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583959496l/52300107._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/52300107-caffeine</link>
+  <num_pages>3</num_pages>
+  <format>Audible Audio</format>
+  <edition_information/>
+  <publisher>Audible Original</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2020</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>4623</ratings_count>
+  <description>Michael Pollan, known for his best-selling nonfiction audio, including The Omnivores Dilemma and How to Change Your Mind, conceived and wrote Caffeine: How Caffeine Created the Modern World as an Audible Original. In this controversial and exciting listen, Pollan explores caffeine’s power as the most-used drug in the world—and the only one we give to children (in soda pop) as a treat.&lt;br /&gt;&lt;br /&gt;Pollan takes us on a journey through the history of the drug, which was first discovered in a small part of East Africa and within a century became an addiction affecting most of the human species. Caffeine, it turns out, has changed the course of human history—won and lost wars, changed politics, dominated economies. What’s more, the author shows that the Industrial Revolution would have been impossible without it. The science of how the drug has evolved to addict us is no less fascinating. And caffeine has done all these things while hiding in plain sight! Percolated with Michael Pollan’s unique ability to entertain, inform, and perform, Caffeine is essential listening in a world where an estimated two billion cups of coffee are consumed every day.&lt;br /&gt;&lt;br /&gt;©2019 Michael Pollan (P)2020 Audible Originals, LLC</description>
+<authors>
+<author>
+<id>2121</id>
+<name>Michael Pollan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366396171p5/2121.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366396171p2/2121.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2121.Michael_Pollan]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>447310</ratings_count>
+<text_reviews_count>36289</text_reviews_count>
+</author>
+</authors>
+  <published>2020</published>
+<work>  <id>77459167</id>
+  <uri>kca://work/amzn1.gr.work.v3.XAdcy0dhJ3fV5Ml5</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2894553639' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Mar 29 01:24:07 -0700 2020</date_added>
+  <date_updated>Sun Mar 29 01:24:09 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3252011197]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3252011197]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3250800759</id>
+    <book>
+  <id type="integer">18154</id>
+  <isbn>1416507787</isbn>
+  <isbn13>9781416507789</isbn13>
+  <text_reviews_count type="integer">602</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4Mr35HQQu8CBFEWFmu_d4g</uri>
+  <title>The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</title>
+  <title_without_series>The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg</link>
+  <num_pages>399</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gallery Books</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>9661</ratings_count>
+  <description>&lt;i&gt;Before the Internet became widely known as a global tool for terrorists, one perceptive U.S. citizen recognized its ominous potential. Armed with clear evidence of computer espionage, he began a highly personal quest to expose a hidden network of spies that threatened national security. But would the authorities back him up? Cliff Stoll's dramatic firsthand account is "a computer-age detective story, instantly fascinating [and] astonishingly gripping"&lt;/i&gt; (Smithsonian). &lt;br /&gt; Cliff Stoll was an astronomer turned systems manager at Lawrence Berkeley Lab when a 75-cent accounting error alerted him to the presence of an unauthorized user on his system. The hacker's code name was "Hunter" -- a mysterious invader who managed to break into U.S. computer systems and steal sensitive military and security information. Stoll began a one-man hunt of his own: spying on the spy. It was a dangerous game of deception, broken codes, satellites, and missile bases -- a one-man sting operation that finally gained the attention of the CIA...and ultimately trapped an international spy ring fueled by cash, cocaine, and the KGB.</description>
+<authors>
+<author>
+<id>30891</id>
+<name>Clifford Stoll</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30891.Clifford_Stoll]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>10248</ratings_count>
+<text_reviews_count>816</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>19611</id>
+  <uri>kca://work/amzn1.gr.work.v1.TxdFRp81YRyMgr0yXkDkbQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2893366743' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 28 09:06:33 -0700 2020</date_added>
+  <date_updated>Sat Mar 28 09:06:44 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3250800759]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3250800759]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3249221620</id>
+    <book>
+  <id type="integer">2612</id>
+  <isbn>0316346624</isbn>
+  <isbn13>9780316346627</isbn13>
+  <text_reviews_count type="integer">12288</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rp_Fr01MGufpLcY9Yi8KIg</uri>
+  <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+  <title_without_series>The Tipping Point: How Little Things Can Make a Big Difference</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2612.The_Tipping_Point</link>
+  <num_pages>301</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>670363</ratings_count>
+  <description>&lt;i&gt;An alternate cover edition exists &lt;a href="https://www.goodreads.com/book/show/34668905.here" title="here" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.&lt;br /&gt;&lt;br /&gt;Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.</description>
+<authors>
+<author>
+<id>1439</id>
+<name>Malcolm Gladwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>2022467</ratings_count>
+<text_reviews_count>79141</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2124255</id>
+  <uri>kca://work/amzn1.gr.work.v1.0gldOhtTZsFxGayFbXajCQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2891808829' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 27 08:07:18 -0700 2020</date_added>
+  <date_updated>Fri Mar 27 08:07:19 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3249221620]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3249221620]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3244646941</id>
+    <book>
+  <id type="integer">34890015</id>
+  <isbn>1473637465</isbn>
+  <isbn13>9781473637467</isbn13>
+  <text_reviews_count type="integer">6620</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GXNJG58VRVeD0z487NbnhA</uri>
+  <title>Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think</title>
+  <title_without_series>Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34890015-factfulness</link>
+  <num_pages>342</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Sceptre</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.37</average_rating>
+  <ratings_count>88285</ratings_count>
+  <description>&lt;b&gt;Factfulness:&lt;/b&gt;&lt;b&gt;The stress-reducing habit of only carrying opinions for which you have strong supporting facts. &lt;/b&gt;&lt;p&gt;When asked simple questions about global trends - why the world's population is increasing; how many young women go to school; how many of us live in poverty - we systematically get the answers wrong. So wrong that a chimpanzee choosing answers at random will consistently outguess journalists, Nobel laureates, and investment bankers.&lt;/p&gt;&lt;p&gt;In &lt;i&gt;Factfulness&lt;/i&gt;, Professor of International Health and a man who can make data sing, Hans Rosling, together with his two long-time collaborators Anna and Ola, offers a radical new explanation of why this happens, and reveals the ten instincts that distort our perspective. &lt;/p&gt;&lt;p&gt;It turns out that the world, for all its imperfections, is in a much better state than we might think. But when we worry about everything all the time instead of embracing a worldview based on facts, we can lose our ability to focus on the things that threaten us most. &lt;/p&gt;&lt;p&gt;
+  &lt;b&gt;Inspiring and revelatory, filled with lively anecdotes and moving stories, &lt;i&gt;Factfulness&lt;/i&gt; is an urgent and essential book that will change the way you see the world.&lt;/b&gt;
+&lt;/p&gt;</description>
+<authors>
+<author>
+<id>2790706</id>
+<name>Hans Rosling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1486521286p5/2790706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1486521286p2/2790706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2790706.Hans_Rosling]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>89860</ratings_count>
+<text_reviews_count>8434</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>56144100</id>
+  <uri>kca://work/amzn1.gr.work.v1.FBexR-OL20twaWiEndR1Aw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2887331845' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Mar 24 08:01:38 -0700 2020</date_added>
+  <date_updated>Tue Mar 24 08:02:00 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3244646941]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3244646941]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3238679753</id>
+    <book>
+  <id type="integer">28512671</id>
+  <isbn>0062390856</isbn>
+  <isbn13>9780062390851</isbn13>
+  <text_reviews_count type="integer">2090</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Wmyyjn0EFmUnTsNa2Y2FpA</uri>
+  <title>Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are</title>
+  <title_without_series>Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489069766l/28512671._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489069766l/28512671._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28512671-everybody-lies</link>
+  <num_pages>338</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dey Street Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>26854</ratings_count>
+  <description>Foreword by Steven Pinker&lt;br /&gt;&lt;br /&gt;Blending the informed analysis of The Signal and the Noise with the instructive iconoclasm of Think Like a Freak, a fascinating, illuminating, and witty look at what the vast amounts of information now instantly available to us reveals about ourselves and our world—provided we ask the right questions.&lt;br /&gt;&lt;br /&gt;By the end of an average day in the early twenty-first century, human beings searching the internet will amass eight trillion gigabytes of data. This staggering amount of information—unprecedented in history—can tell us a great deal about who we are—the fears, desires, and behaviors that drive us, and the conscious and unconscious decisions we make. From the profound to the mundane, we can gain astonishing knowledge about the human psyche that less than twenty years ago, seemed unfathomable.&lt;br /&gt;&lt;br /&gt;Everybody Lies offers fascinating, surprising, and sometimes laugh-out-loud insights into everything from economics to ethics to sports to race to sex, gender and more, all drawn from the world of big data. What percentage of white voters didn’t vote for Barack Obama because he’s black? Does where you go to school effect how successful you are in life? Do parents secretly favor boy children over girls? Do violent films affect the crime rate? Can you beat the stock market? How regularly do we lie about our sex lives and who’s more self-conscious about sex, men or women?&lt;br /&gt;&lt;br /&gt;Investigating these questions and a host of others, Seth Stephens-Davidowitz offers revelations that can help us understand ourselves and our lives better. Drawing on studies and experiments on how we really live and think, he demonstrates in fascinating and often funny ways the extent to which all the world is indeed a lab. With conclusions ranging from strange-but-true to thought-provoking to disturbing, he explores the power of this digital truth serum and its deeper potential—revealing biases deeply embedded within us, information we can use to change our culture, and the questions we’re afraid to ask that might be essential to our health—both emotional and physical. All of us are touched by big data everyday, and its influence is multiplying. Everybody Lies challenges us to think differently about how we see it and the world.</description>
+<authors>
+<author>
+<id>14847937</id>
+<name>Seth Stephens-Davidowitz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1494839418p5/14847937.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1494839418p2/14847937.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14847937.Seth_Stephens_Davidowitz]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>26856</ratings_count>
+<text_reviews_count>2587</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>48667223</id>
+  <uri>kca://work/amzn1.gr.work.v1.tkzXAYDgQhpAka4IKC8H9Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 20 09:08:41 -0700 2020</date_added>
+  <date_updated>Fri Mar 20 09:08:42 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3238679753]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3238679753]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3238303101</id>
+    <book>
+  <id type="integer">32191710</id>
+  <isbn>0393609391</isbn>
+  <isbn13>9780393609394</isbn13>
+  <text_reviews_count type="integer">8989</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Bm7sNShFdlWjSyYv1se5vw</uri>
+  <title>Astrophysics for People in a Hurry</title>
+  <title_without_series>Astrophysics for People in a Hurry</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761669l/32191710._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761669l/32191710._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>W. W. Norton  Company</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>102867</ratings_count>
+  <description>What is the nature of space and time? How do we fit within the universe? How does the universe fit within us? There’s no better guide through these mind-expanding questions than acclaimed astrophysicist and best-selling author Neil deGrasse Tyson.&lt;br /&gt;&lt;br /&gt;But today, few of us have time to contemplate the cosmos. So Tyson brings the universe down to Earth succinctly and clearly, with sparkling wit, in tasty chapters consumable anytime and anywhere in your busy day.</description>
+<authors>
+<author>
+<id>12855</id>
+<name>Neil deGrasse Tyson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1535037092p5/12855.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1535037092p2/12855.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12855.Neil_deGrasse_Tyson]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>162658</ratings_count>
+<text_reviews_count>15586</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>52832605</id>
+  <uri>kca://work/amzn1.gr.work.v1.-VGO1RALL92pNpkdYvlq5g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2881075232' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 20 00:50:41 -0700 2020</date_added>
+  <date_updated>Fri Mar 20 00:50:46 -0700 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3238303101]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3238303101]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3235928124</id>
+    <book>
+  <id type="integer">23258103</id>
+  <isbn>1476784884</isbn>
+  <isbn13>9781476784885</isbn13>
+  <text_reviews_count type="integer">210</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Vx90TjDbiN3IrgwfdI6pWw</uri>
+  <title>The Mathematics of Love: Patterns, Proofs, and the Search for the Ultimate Equation</title>
+  <title_without_series>The Mathematics of Love: Patterns, Proofs, and the Search for the Ultimate Equation</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563705628l/23258103._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563705628l/23258103._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23258103-the-mathematics-of-love</link>
+  <num_pages>128</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster / TED</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>1949</ratings_count>
+  <description>In this must-have for anyone who wants to better understand their love life, a mathematician pulls back the curtain and reveals the hidden patterns—from dating sites to divorce, sex to marriage—behind the rituals of love.&lt;br /&gt;&lt;br /&gt;The roller coaster of romance is hard to quantify; defining how lovers might feel from a set of simple equations is impossible. But that doesn’t mean that mathematics isn’t a crucial tool for understanding love. &lt;br /&gt;&lt;br /&gt;Love, like most things in life, is full of patterns. And mathematics is ultimately the study of patterns—from predicting the weather to the fluctuations of the stock market, the movement of planets or the growth of cities. These patterns twist and turn and warp and evolve just as the rituals of love do. &lt;br /&gt;&lt;br /&gt;In &lt;i&gt;The Mathematics of Love&lt;/i&gt;, Dr. Hannah Fry takes the reader on a fascinating journey through the patterns that define our love lives, applying mathematical formulas to the most common yet complex questions pertaining to love: What’s the chance of finding love? What’s the probability that it will last? How do online dating algorithms work, exactly? Can game theory help us decide who to approach in a bar? At what point in your dating life should you settle down? &lt;br /&gt;&lt;br /&gt;From evaluating the best strategies for online dating to defining the nebulous concept of beauty, Dr. Fry proves—with great insight, wit, and fun—that math is a surprisingly useful tool to negotiate the complicated, often baffling, sometimes infuriating, always interesting, mysteries of love.</description>
+<authors>
+<author>
+<id>8365972</id>
+<name>Hannah Fry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448012148p5/8365972.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448012148p2/8365972.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8365972.Hannah_Fry]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>7560</ratings_count>
+<text_reviews_count>907</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>42171104</id>
+  <uri>kca://work/amzn1.gr.work.v1.cQcnyNsbt-YCiRiEBuXMqw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2878698098' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 18 07:15:53 -0700 2020</date_added>
+  <date_updated>Wed Mar 18 07:15:56 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3235928124]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3235928124]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3235927435</id>
+    <book>
+  <id type="integer">43848929</id>
+  <isbn>0316478520</isbn>
+  <isbn13>9780316478526</isbn13>
+  <text_reviews_count type="integer">9000</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CBAM52NA5PqzJfxQJE2V5A</uri>
+  <title>Talking to Strangers: What We Should Know About the People We Don’t Know</title>
+  <title_without_series>Talking to Strangers: What We Should Know About the People We Don’t Know</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43848929-talking-to-strangers</link>
+  <num_pages>388</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>103296</ratings_count>
+  <description>&lt;b&gt;Malcolm Gladwell, host of the podcast Revisionist History and author of the #1 New York Times bestseller &lt;i&gt;Outliers&lt;/i&gt;, offers a powerful examination of our interactions with strangers -- and why they often go wrong.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are campus sexual assaults on the rise? Do television sitcoms teach us something about the way we relate to each other that isn't true?&lt;br /&gt;&lt;br /&gt;While tackling these questions, Malcolm Gladwell was not solely writing a book for the page. He was also producing for the ear. In the audiobook version of Talking to Strangers, you'll hear the voices of people he interviewed--scientists, criminologists, military psychologists. Court transcripts are brought to life with re-enactments. You actually hear the contentious arrest of Sandra Bland by the side of the road in Texas. As Gladwell revisits the deceptions of Bernie Madoff, the trial of Amanda Knox, and the suicide of Sylvia Plath, you hear directly from many of the players in these real-life tragedies. There's even a theme song - Janelle Monae's "Hell You Talmbout."&lt;br /&gt;&lt;br /&gt;Something is very wrong, Gladwell argues, with the tools and strategies we use to make sense of people we don't know. And because we don't know how to talk to strangers, we are inviting conflict and misunderstanding in ways that have a profound effect on our lives and our world.</description>
+<authors>
+<author>
+<id>1439</id>
+<name>Malcolm Gladwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>2022467</ratings_count>
+<text_reviews_count>79141</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>68174561</id>
+  <uri>kca://work/amzn1.gr.work.v1.wVBk63c_bBgoIHreJPDjZg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2878697441' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 18 07:15:11 -0700 2020</date_added>
+  <date_updated>Wed Mar 18 07:15:15 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3235927435]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3235927435]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3230397007</id>
+    <book>
+  <id type="integer">6346975</id>
+  <isbn>159420229X</isbn>
+  <isbn13>9781594202292</isbn13>
+  <text_reviews_count type="integer">4680</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Om4UIrjcIskGWkF96j-rXA</uri>
+  <title>Moonwalking with Einstein: The Art and Science of Remembering Everything</title>
+  <title_without_series>Moonwalking with Einstein: The Art and Science of Remembering Everything</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein</link>
+  <num_pages>307</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Penguin Press HC, The</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>70372</ratings_count>
+  <description>&lt;b&gt;The blockbuster phenomenon that charts an amazing journey of the mind while revolutionizing our concept of memory&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;An instant bestseller that is poised to become a classic, &lt;i&gt;Moonwalking with Einstein&lt;/i&gt; recounts Joshua Foer's yearlong quest to improve his memory under the tutelage of top "mental athletes." He draws on cutting-edge research, a surprising cultural history of remembering, and venerable tricks of the mentalist's trade to transform our understanding of human memory. From the United States Memory Championship to deep within the author's own mind, this is an electrifying work of journalism that reminds us that, in every way that matters, we are the sum of our memories.</description>
+<authors>
+<author>
+<id>2867569</id>
+<name>Joshua Foer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322436441p5/2867569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322436441p2/2867569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2867569.Joshua_Foer]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>75144</ratings_count>
+<text_reviews_count>5936</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>6533383</id>
+  <uri>kca://work/amzn1.gr.work.v1.v52CVp_ECmTX2pFgBogXIw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2873116246' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 14 06:59:33 -0700 2020</date_added>
+  <date_updated>Sat Mar 14 06:59:36 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3230397007]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3230397007]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3230396795</id>
+    <book>
+  <id type="integer">101438</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">519</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TmyatCq2nq4rW1j3Z0u0lw</uri>
+  <title>Skunk Works: A Personal Memoir of My Years at Lockheed</title>
+  <title_without_series>Skunk Works: A Personal Memoir of My Years at Lockheed</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267416l/101438._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267416l/101438._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/101438.Skunk_Works</link>
+  <num_pages>382</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books/Little, Brown &amp; Co. (NY)</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>7202</ratings_count>
+  <description>From the development of the U-2 to the Stealth fighter, the never-before-told story behind the high-stakes quest to dominate the skies Skunk Works is the true story of America's most secret &amp;amp; successful aerospace operation. As recounted by Ben Rich, the operation's brilliant boss for nearly two decades, the chronicle of Lockheed's legendary Skunk Works is a drama of cold war confrontations and Gulf War air combat, of extraordinary feats of engineering &amp;amp; achievement against fantastic odds. Here are up-close portraits of the maverick band of scientists &amp;amp; engineers who made the Skunk Works so renowned. Filled with telling personal anecdotes &amp;amp; high adventure, with narratives from the CIA &amp;amp; from Air Force pilots who flew the many classified, risky missions, this book is a portrait of the most spectacular aviation triumphs of the 20th century.</description>
+<authors>
+<author>
+<id>58593</id>
+<name>Ben R. Rich</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58593.Ben_R_Rich]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>7216</ratings_count>
+<text_reviews_count>569</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>97803</id>
+  <uri>kca://work/amzn1.gr.work.v1.aKgGlwDBzmrqRBeTp7_2cQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2873116046' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 14 06:59:19 -0700 2020</date_added>
+  <date_updated>Sat Mar 14 06:59:21 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3230396795]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3230396795]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3218791059</id>
+    <book>
+  <id type="integer">1842</id>
+  <isbn>0739467352</isbn>
+  <isbn13>9780739467350</isbn13>
+  <text_reviews_count type="integer">8683</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TRnr_6OZ7eqO98t3rK7-0A</uri>
+  <title>Guns, Germs, and Steel: The Fates of Human Societies</title>
+  <title_without_series>Guns, Germs, and Steel: The Fates of Human Societies</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel</link>
+  <num_pages>425</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W.W. Norton &amp; Company</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>4.03</average_rating>
+  <ratings_count>283158</ratings_count>
+  <description>"Diamond has written a book of remarkable scope ... one of the most important and readable works on the human past published in recent years."&lt;br /&gt;&lt;br /&gt;Winner of the Pulitzer Prize and a national bestseller: the global account of the rise of civilization that is also a stunning refutation of ideas of human development based on race.&lt;br /&gt;&lt;br /&gt;In this "artful, informative, and delightful" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had a head start in food production advanced beyond the hunter-gatherer stage, and then developed writing, technology, government, and organized religion—as well as nasty germs and potent weapons of war—and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, &lt;i&gt;Guns, Germs, and Steel&lt;/i&gt; chronicles the way that the modern world came to be and stunningly dismantles racially based theories of human history.&lt;br /&gt;&lt;br /&gt;Winner of the Pulitzer Prize, the Phi Beta Kappa Award in Science, the Rhone-Poulenc Prize, and the Commonwealth Club of California's Gold Medal</description>
+<authors>
+<author>
+<id>256</id>
+<name>Jared Diamond</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1456487863p5/256.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1456487863p2/256.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/256.Jared_Diamond]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>387520</ratings_count>
+<text_reviews_count>16816</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>2138852</id>
+  <uri>kca://work/amzn1.gr.work.v1.cytHscsw_4UYWxBlvf0IlA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2861308333' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 05 04:46:21 -0800 2020</date_added>
+  <date_updated>Thu Mar 05 04:47:37 -0800 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3218791059]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3218791059]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3218779583</id>
+    <book>
+  <id type="integer">25666050</id>
+  <isbn>1627790365</isbn>
+  <isbn13>9781627790369</isbn13>
+  <text_reviews_count type="integer">1372</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-TwRk9z7REp47cbJ7cwJDg</uri>
+  <title>Algorithms to Live By: The Computer Science of Human Decisions</title>
+  <title_without_series>Algorithms to Live By: The Computer Science of Human Decisions</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25666050-algorithms-to-live-by</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Henry Holt and Co.</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>17506</ratings_count>
+  <description>&lt;b&gt;A fascinating exploration of how insights from computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;All our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favorites is the most fulfilling? These may seem like uniquely human quandaries, but they are not: computers, too, face the same constraints, so computer scientists have been grappling with their version of such issues for decades. And the solutions they've found have much to teach us.&lt;br /&gt;&lt;br /&gt;In a dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show how the algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of memory, &lt;i&gt;Algorithms to Live By&lt;/i&gt; transforms the wisdom of computer science into strategies for human living.</description>
+<authors>
+<author>
+<id>4199891</id>
+<name>Brian Christian</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1453834169p5/4199891.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1453834169p2/4199891.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4199891.Brian_Christian]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>21655</ratings_count>
+<text_reviews_count>2155</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>45489188</id>
+  <uri>kca://work/amzn1.gr.work.v1.Gp3ns5cX-zNZsTF_-7Nlaw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2861295983' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 05 04:31:27 -0800 2020</date_added>
+  <date_updated>Thu Mar 05 04:31:30 -0800 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3218779583]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3218779583]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3212582976</id>
+    <book>
+  <id type="integer">3869</id>
+  <isbn>0553380168</isbn>
+  <isbn13>9780553380163</isbn13>
+  <text_reviews_count type="integer">6240</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tMtwVV4SCdc6-pqZtkrHOQ</uri>
+  <title>A Brief History of Time</title>
+  <title_without_series>A Brief History of Time</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time</link>
+  <num_pages>212</num_pages>
+  <format>Paperback</format>
+  <edition_information>Updated &amp; Expanded 10th Anniversary</edition_information>
+  <publisher>Bantam Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>287039</ratings_count>
+  <description>In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.</description>
+<authors>
+<author>
+<id>1401</id>
+<name>Stephen Hawking</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1557493340p5/1401.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1557493340p2/1401.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1401.Stephen_Hawking]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>526264</ratings_count>
+<text_reviews_count>20584</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>2192250</id>
+  <uri>kca://work/amzn1.gr.work.v1.OZ8CGI8cStk8Z7Qkqcry1g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2855063841' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 29 19:45:27 -0800 2020</date_added>
+  <date_updated>Sat Feb 29 19:45:32 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3212582976]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3212582976]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209013979</id>
+    <book>
+  <id type="integer">39074550</id>
+  <isbn>0241360196</isbn>
+  <isbn13>9780241360194</isbn13>
+  <text_reviews_count type="integer">244</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oE0UmEpOyYUYot6AFaF5rg</uri>
+  <title>Humble Pi: A Comedy of Maths Errors</title>
+  <title_without_series>Humble Pi: A Comedy of Maths Errors</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39074550-humble-pi</link>
+  <num_pages>314</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Allen Lane</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>3294</ratings_count>
+  <description>The author explains how the misuse of math creates problems. Mathematical errors often include mistaking units (pounds for kilograms, feet for meters), and misunderstanding probabilistic and statistical statements. Parker also presents examples of users of computer software not fully understanding the limitations of packaged programs. The only topic that is somewhat technical and requires a bit of effort to follow is Parker's explanation of how the inexactitudes introduced by inputting and outputting date in decimal form leads to problems because the internal computations are actually done in binary. Yet, Parker has a sly wit; so, although all this sounds very serious, in fact, the writing style is breezy and, in some parts, extremely funny.</description>
+<authors>
+<author>
+<id>17598525</id>
+<name>Matt    Parker</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17598525.Matt_Parker]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>4875</ratings_count>
+<text_reviews_count>541</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>60629800</id>
+  <uri>kca://work/amzn1.gr.work.v1.Lfh-doNRT9w_fz3-byk7iA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851466651' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:22:34 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:22:37 -0800 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209013979]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209013979]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209013348</id>
+    <book>
+  <id type="integer">21401526</id>
+  <isbn>1922142433</isbn>
+  <isbn13>9781922142436</isbn13>
+  <text_reviews_count type="integer">740</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.N6ulZkjip5XhAB-4hYYMGw</uri>
+  <title>Dark Emu</title>
+  <title_without_series>Dark Emu</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394246505l/21401526._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394246505l/21401526._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21401526-dark-emu</link>
+  <num_pages>176</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Magabala Books</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>4.42</average_rating>
+  <ratings_count>6032</ratings_count>
+  <description>Dark Emu puts forward an argument for a reconsideration of the hunter-gatherer tag for precolonial Aboriginal Australians. The evidence insists that Aboriginal people right across the continent were using domesticated plants, sowing, harvesting, irrigating and storing – behaviours inconsistent with the hunter-gatherer tag. Gerritsen and Gammage in their latest books support this premise but Pascoe takes this further and challenges the hunter-gatherer tag as a convenient lie. Almost all the evidence comes from the records and diaries of the Australian explorers, impeccable sources.</description>
+<authors>
+<author>
+<id>809165</id>
+<name>Bruce Pascoe</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/809165.Bruce_Pascoe]]></link>
+<average_rating>4.39</average_rating>
+<ratings_count>6830</ratings_count>
+<text_reviews_count>1175</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>40699567</id>
+  <uri>kca://work/amzn1.gr.work.v1.CdFt3cpXpO9CmJbb4n9XsQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851465912' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:21:44 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:21:48 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209013348]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209013348]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209013079</id>
+    <book>
+  <id type="integer">28256439</id>
+  <isbn>1771642483</isbn>
+  <isbn13>9781771642484</isbn13>
+  <text_reviews_count type="integer">3327</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.L9Ln0rNsKXFj6LbRfrJyzg</uri>
+  <title>The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World</title>
+  <title_without_series>The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464281905l/28256439._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464281905l/28256439._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28256439-the-hidden-life-of-trees</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>32377</ratings_count>
+  <description>In &lt;i&gt;The Hidden Life of Trees&lt;/i&gt;, Peter Wohlleben shares his deep love of woods and forests and explains the amazing processes of life, death, and regeneration he has observed in the woodland and the amazing scientific processes behind the wonders of which we are blissfully unaware. Much like human families, tree parents live together with their children, communicate with them, and support them as they grow, sharing nutrients with those who are sick or struggling and creating an ecosystem that mitigates the impact of extremes of heat and cold for the whole group. As a result of such interactions, trees in a family or community are protected and can live to be very old. In contrast, solitary trees, like street kids, have a tough time of it and in most cases die much earlier than those in a group.&lt;br /&gt;&lt;br /&gt;Drawing on groundbreaking new discoveries, Wohlleben presents the science behind the secret and previously unknown life of trees and their communication abilities; he describes how these discoveries have informed his own practices in the forest around him. As he says, a happy forest is a healthy forest, and he believes that eco-friendly practices not only are economically sustainable but also benefit the health of our planet and the mental and physical health of all who live on Earth.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>4110912</id>
+<name>Peter Wohlleben</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474069110p5/4110912.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474069110p2/4110912.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4110912.Peter_Wohlleben]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>39815</ratings_count>
+<text_reviews_count>5290</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>48295241</id>
+  <uri>kca://work/amzn1.gr.work.v1.l27TA0M2gppHNepAqqHZYw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851465591' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:21:22 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:21:26 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209013079]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209013079]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209012639</id>
+    <book>
+  <id type="integer">25135194</id>
+  <isbn>1783961414</isbn>
+  <isbn13>9781783961412</isbn13>
+  <text_reviews_count type="integer">1985</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fbPazR2wjzs4dAy159d5zw</uri>
+  <title>Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics</title>
+  <title_without_series>Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432827094l/25135194._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432827094l/25135194._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25135194-prisoners-of-geography</link>
+  <num_pages>256</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Elliott &amp; Thompson</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>39346</ratings_count>
+  <description>In the bestselling tradition of &lt;i&gt;Why Nations Fail&lt;/i&gt; and &lt;i&gt;The Revenge of Geography&lt;/i&gt;, an award-winning journalist uses ten maps of crucial regions to explain the geo-political strategies of the world powers.&lt;br /&gt;&lt;br /&gt;All leaders of nations are constrained by geography. Their choices are limited by mountains, rivers, seas, and concrete. To understand world events, news organizations and other authorities often focus on people, ideas, and political movements, but without geography, we never have the full picture. Now, in the relevant and timely &lt;i&gt;Prisoners of Geography&lt;/i&gt;, seasoned journalist Tim Marshall examines Russia, China, the USA, Latin America, the Middle East, Africa, Europe, Japan and Korea, and Greenland and the Arctic—their weather, seas, mountains, rivers, deserts, and borders—to provide a context often missing from our political reportage: how the physical characteristics of these countries affect their strengths and vulnerabilities and the decisions made by their leaders.&lt;br /&gt;&lt;br /&gt;In ten, up-to-date maps of each region, Marshall explains in clear and engaging prose the complex geo-political strategies of these key parts of the globe. What does it mean that Russia must have a navy, but also has frozen ports six months a year? How does this affect Putin’s treatment of Ukraine? How is China’s future constrained by its geography? Why will Europe never be united? Why will America never be invaded? Shining a light on the unavoidable physical realities that shape all of our aspirations and endeavors, &lt;i&gt;Prisoners of Geography&lt;/i&gt; is the critical guide to one of the major (and most often overlooked) determining factors in world history.</description>
+<authors>
+<author>
+<id>713466</id>
+<name>Tim Marshall</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489696759p5/713466.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489696759p2/713466.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/713466.Tim_Marshall]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>44709</ratings_count>
+<text_reviews_count>4064</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>44832697</id>
+  <uri>kca://work/amzn1.gr.work.v1.yCgLqDJh7OI4QSI68DhAjQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851465126' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:20:51 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:20:57 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209012639]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209012639]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209012242</id>
+    <book>
+  <id type="integer">49947205</id>
+  <isbn>0008340927</isbn>
+  <isbn13>9780008340926</isbn13>
+  <text_reviews_count type="integer">388</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v3.fpFANHzl4fSYJfNq</uri>
+  <title>The End is Always Near: Apocalyptic Moments, from the Bronze Age Collapse to Nuclear Near Misses</title>
+  <title_without_series>The End is Always Near: Apocalyptic Moments, from the Bronze Age Collapse to Nuclear Near Misses</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49947205-the-end-is-always-near</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>4023</ratings_count>
+  <description>The creator of the wildly popular award-winning podcast Hardcore History looks at some of the apocalyptic moments from the past as a way to frame the challenges of the future.&lt;br /&gt;&lt;br /&gt;Do tough times create tougher people? Can humanity handle the power of its weapons without destroying itself? Will human technology or capabilities ever peak or regress? No one knows the answers to such questions, but no one asks them in a more interesting way than Dan Carlin.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;The End is Always Near&lt;/i&gt;, Dan Carlin looks at questions and historical events that force us to consider what sounds like fantasy; that we might suffer the same fate that all previous eras did. Will our world ever become a ruin for future archaeologists to dig up and explore? The questions themselves are both philosophical and like something out of The Twilight Zone.&lt;br /&gt;&lt;br /&gt;Combining his trademark mix of storytelling, history and weirdness Dan Carlin connects the past and future in fascinating and colorful ways. At the same time the questions he asks us to consider involve the most important issue imaginable: human survival. From the collapse of the Bronze Age to the challenges of the nuclear era the issue has hung over humanity like a persistent Sword of Damocles.&lt;br /&gt;&lt;br /&gt;Inspired by his podcast, &lt;i&gt;The End is Always Near&lt;/i&gt; challenges the way we look at the past and ourselves. In this absorbing compendium, Carlin embarks on a whole new set of stories and major cliffhangers that will keep readers enthralled. Idiosyncratic and erudite, offbeat yet profound, &lt;i&gt;The End is Always Near&lt;/i&gt; examines issues that are rarely presented, and makes the past immediately relevant to our very turbulent present.</description>
+<authors>
+<author>
+<id>500722</id>
+<name>Dan Carlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383539873p5/500722.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383539873p2/500722.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500722.Dan_Carlin]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>10346</ratings_count>
+<text_reviews_count>811</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>72579137</id>
+  <uri>kca://work/amzn1.gr.work.v2.62f25844-4e82-4a2d-aafd-8245111a9843</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851464781' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:20:18 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:20:26 -0800 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209012242]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209012242]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209011497</id>
+    <book>
+  <id type="integer">37976541</id>
+  <isbn>152473165X</isbn>
+  <isbn13>9781524731656</isbn13>
+  <text_reviews_count type="integer">12135</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.E8hHn_Xf1KbF5SyEp2vB9Q</uri>
+  <title>Bad Blood: Secrets and Lies in a Silicon Valley Startup</title>
+  <title_without_series>Bad Blood: Secrets and Lies in a Silicon Valley Startup</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37976541-bad-blood</link>
+  <num_pages>339</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf Publishing Group</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>148834</ratings_count>
+  <description>&lt;b&gt;The full inside story of the breathtaking rise and shocking collapse of a multibillion-dollar startup, by the prize-winning journalist who first broke the story and pursued it to the end in the face of pressure and threats from the CEO and her lawyers.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the female Steve Jobs: a brilliant Stanford dropout whose startup "unicorn" promised to revolutionize the medical industry with a machine that would make blood tests significantly faster and easier. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at $9 billion, putting Holmes's worth at an estimated $4.7 billion. There was just one problem: The technology didn't work.&lt;br /&gt;&lt;br /&gt;For years, Holmes had been misleading investors, FDA officials, and her own employees. When Carreyrou, working at &lt;i&gt;The Wall Street Journal,&lt;/i&gt; got a tip from a former Theranos employee and started asking questions, both Carreyrou and the &lt;i&gt;Journal&lt;/i&gt; were threatened with lawsuits. Undaunted, the newspaper ran the first of dozens of Theranos articles in late 2015. By early 2017, the company's value was zero and Holmes faced potential legal action from the government and her investors. Here is the riveting story of the biggest corporate fraud since Enron, a disturbing cautionary tale set amid the bold promises and gold-rush frenzy of Silicon Valley.</description>
+<authors>
+<author>
+<id>17575761</id>
+<name>John Carreyrou</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1557850844p5/17575761.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1557850844p2/17575761.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17575761.John_Carreyrou]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>148904</ratings_count>
+<text_reviews_count>14730</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>59699437</id>
+  <uri>kca://work/amzn1.gr.work.v1.KtP4zS1nbZ4KYtEWQH4uUQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851463811' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:19:17 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:19:23 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209011497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209011497]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209010770</id>
+    <book>
+  <id type="integer">31138556</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7560</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oHMNNs-TwRbguBqR2BQmkw</uri>
+  <title>Homo Deus: A History of Tomorrow</title>
+  <title_without_series>Homo Deus: A History of Tomorrow</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31138556-homo-deus</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>129991</ratings_count>
+  <description>&lt;p&gt;Yuval Noah Harari, author of the critically-acclaimed &lt;em&gt;New York Times&lt;/em&gt; bestseller and international phenomenon &lt;em&gt;Sapiens&lt;/em&gt;, returns with an equally original, compelling, and provocative book, turning his focus toward humanity’s future, and our quest to upgrade humans into gods.&lt;/p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;p&gt;Over the past century humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but, as Harari explains in his trademark style—thorough, yet riveting—famine, plague and war have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges. For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals put together. The average American is a thousand times more likely to die from binging at McDonalds than from being blown up by Al Qaeda.&lt;/p&gt;&lt;p&gt;What then will replace famine, plague, and war at the top of the human agenda? As the self-made gods of planet earth, what destinies will we set ourselves, and which quests will we undertake?&lt;em&gt; Homo Deus&lt;/em&gt; explores the projects, dreams and nightmares that will shape the twenty-first century—from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution. This is Homo Deus.&lt;/p&gt;&lt;p&gt;With the same insight and clarity that made &lt;em&gt;Sapiens&lt;/em&gt; an international hit and a &lt;em&gt;New York Times&lt;/em&gt; bestseller, Harari maps out our future. &lt;/p&gt;</description>
+<authors>
+<author>
+<id>395812</id>
+<name>Yuval Noah Harari</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1546235045p5/395812.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1546235045p2/395812.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>644298</ratings_count>
+<text_reviews_count>46931</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45087110</id>
+  <uri>kca://work/amzn1.gr.work.v1.HTyreZEYCKHDFE8KP_-yZw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851462979' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:18:19 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:18:27 -0800 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209010770]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209010770]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209009530</id>
+    <book>
+  <id type="integer">23692271</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">23966</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4aaEOknMj7166lgef5EmXw</uri>
+  <title>Sapiens: A Brief History of Humankind</title>
+  <title_without_series>Sapiens: A Brief History of Humankind</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420585954l/23692271._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420585954l/23692271._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23692271-sapiens</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harvill Secker</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>4.43</average_rating>
+  <ratings_count>438131</ratings_count>
+  <description>100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. &lt;br /&gt;&lt;br /&gt;How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? &lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Sapiens&lt;/i&gt;, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? &lt;br /&gt;&lt;br /&gt;Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.</description>
+<authors>
+<author>
+<id>395812</id>
+<name>Yuval Noah Harari</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1546235045p5/395812.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1546235045p2/395812.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>644298</ratings_count>
+<text_reviews_count>46931</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>18962767</id>
+  <uri>kca://work/amzn1.gr.work.v1.wrue7885k_mhTCRSy0O0VQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2851461556' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:16:37 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:16:41 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209009530]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209009530]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209008741</id>
+    <book>
+  <id type="integer">1202</id>
+  <isbn>0061234001</isbn>
+  <isbn13>9780061234002</isbn13>
+  <text_reviews_count type="integer">13342</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.R8VMmLFFJXIjZVkSrYZAug</uri>
+  <title>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</title>
+  <title_without_series>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1202.Freakonomics</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Revised and Expanded Edition (US/CAN)</edition_information>
+  <publisher>William Morrow</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>687042</ratings_count>
+  <description>Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? What kind of impact did Roe v. Wade have on violent crime? Freakonomics will literally redefine the way we view the modern world.&lt;br /&gt;&lt;br /&gt;These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He is a much heralded scholar who studies the stuff and riddles of everyday life -- from cheating and crime to sports and child rearing -- and whose conclusions regularly turn the conventional wisdom on its head. He usually begins with a mountain of data and a simple, unasked question. Some of these questions concern life-and-death issues; others have an admittedly freakish quality. Thus the new field of study contained in this book: freakonomics.&lt;br /&gt;&lt;br /&gt;Through forceful storytelling and wry insight, Levitt and co-author Stephen J. Dubner show that economics is, at root, the study of incentives -- how people get what they want, or need, especially when other people want or need the same thing. In Freakonomics, they set out to explore the hidden side of ... well, everything. The inner workings of a crack gang. The truth about real-estate agents. The myths of campaign finance. The telltale marks of a cheating schoolteacher. The secrets of the Ku Klux Klan.&lt;br /&gt;&lt;br /&gt;What unites all these stories is a belief that the modern world, despite a surfeit of obfuscation, complication, and downright deceit, is not impenetrable, is not unknowable, and -- if the right questions are asked -- is even more intriguing than we think. All it takes is a new way of looking. Steven Levitt, through devilishly clever and clear-eyed thinking, shows how to see through all the clutter.&lt;br /&gt;&lt;br /&gt;Freakonomics establishes this unconventional premise: If morality represents how we would like the world to work, then economics represents how it actually does work. It is true that readers of this book will be armed with enough riddles and stories to last a thousand cocktail parties. But Freakonomics can provide more than that. It will literally redefine the way we view the modern world.&lt;br /&gt;(front flap)</description>
+<authors>
+<author>
+<id>798</id>
+<name>Steven D. Levitt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215370905p5/798.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215370905p2/798.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/798.Steven_D_Levitt]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>864143</ratings_count>
+<text_reviews_count>24967</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>5397</id>
+  <uri>kca://work/amzn1.gr.work.v1.U-RYDH4VS6Lp0ghiF96-sQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2851460703' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:15:26 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:15:28 -0800 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209008741]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209008741]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209008539</id>
+    <book>
+  <id type="integer">40102</id>
+  <isbn>0316010669</isbn>
+  <isbn13>9780316010665</isbn13>
+  <text_reviews_count type="integer">13352</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-nwM0tJ8bvUxEvBXnZFVhw</uri>
+  <title>Blink: The Power of Thinking Without Thinking</title>
+  <title_without_series>Blink: The Power of Thinking Without Thinking</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40102.Blink</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>471747</ratings_count>
+  <description>Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made &lt;i&gt;The Tipping Point&lt;/i&gt; a classic, &lt;i&gt;Blink&lt;/i&gt; changes the way you'll understand every decision you make. Never again will you think about thinking the same way.&lt;br /&gt;&lt;br /&gt;Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within. Blink is a book about how we think without thinking, about choices that seem to be made in an instant - in the blink of an eye - that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work - in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others? &lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Blink&lt;/i&gt; we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of "blink": the election of Warren Harding; "New Coke"; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of "thin-slicing" - filtering the very few factors that matter from an overwhelming number of variables.</description>
+<authors>
+<author>
+<id>1439</id>
+<name>Malcolm Gladwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>2022467</ratings_count>
+<text_reviews_count>79141</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1180927</id>
+  <uri>kca://work/amzn1.gr.work.v1.qYWy3fKK-YHr5-a-JLzv2Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2851460446' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:15:08 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:15:14 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209008539]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209008539]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209007778</id>
+    <book>
+  <id type="integer">721609</id>
+  <isbn>0316113506</isbn>
+  <isbn13>9780316113502</isbn13>
+  <text_reviews_count type="integer">1136</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4mLG7liRBBZ3TugCN904cQ</uri>
+  <title>Spark: The Revolutionary New Science of Exercise and the Brain</title>
+  <title_without_series>Spark: The Revolutionary New Science of Exercise and the Brain</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344269833l/721609._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344269833l/721609._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/721609.Spark</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Spark</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>10486</ratings_count>
+  <description>A groundbreaking and fascinating investigation into the transformative effects of exercise on the brain, from the bestselling author and renowned psychiatrist John J. Ratey, MD.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Did you know you can beat stress, lift your mood, fight memory loss, sharpen your intellect, and function better than ever simply by elevating your heart rate and breaking a sweat? The evidence is incontrovertible: Aerobic exercise physically remodels our brains for peak performance. &lt;br /&gt;&lt;br /&gt;In SPARK, John J. Ratey, M.D., embarks upon a fascinating and entertaining journey through the mind-body connection, presenting startling research to prove that exercise is truly our best defense against everything from depression to ADD to addiction to aggression to menopause to Alzheimer's. Filled with amazing case studies (such as the revolutionary fitness program in Naperville, Illinois, which has put this school district of 19,000 kids first in the world of science test scores), SPARK is the first book to explore comprehensively the connection between exercise and the brain. It will change forever the way you think about your morning run---or, for that matter, simply the way you think</description>
+<authors>
+<author>
+<id>46636</id>
+<name>John J. Ratey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227984932p5/46636.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227984932p2/46636.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/46636.John_J_Ratey]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>25926</ratings_count>
+<text_reviews_count>2436</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>376155</id>
+  <uri>kca://work/amzn1.gr.work.v1.AVn_x85TDsOnrmNAYhoBow</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2851459576' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:14:05 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:14:10 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209007778]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209007778]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3209007312</id>
+    <book>
+  <id type="integer">4865</id>
+  <isbn nil="true"/>
+  <isbn13>9780671723651</isbn13>
+  <text_reviews_count type="integer">11155</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rKo_rjo_Jxag7Cf2yDnvzg</uri>
+  <title>How to Win Friends and Influence People</title>
+  <title_without_series>How to Win Friends and Influence People</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information>Special Anniversary Edition</edition_information>
+  <publisher>Gallery Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>568775</ratings_count>
+  <description>You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!&lt;br /&gt;&lt;br /&gt;Since its release in 1936, &lt;i&gt;How to Win Friends and Influence People&lt;/i&gt; has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.&lt;br /&gt;&lt;br /&gt;As relevant as ever before, Dale Carnegie's principles endure, and will help you achieve your maximum potential in the complex and competitive modern age.&lt;br /&gt;&lt;br /&gt;Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.</description>
+<authors>
+<author>
+<id>3317</id>
+<name>Dale Carnegie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1230226725p5/3317.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1230226725p2/3317.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3317.Dale_Carnegie]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>679978</ratings_count>
+<text_reviews_count>19005</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>2370171</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZfNbTlbgMFPj0utnEXyWKA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='358919615' name='2020' review_shelf_id='2851459067' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Feb 27 05:13:29 -0800 2020</date_added>
+  <date_updated>Thu Feb 27 05:13:36 -0800 2020</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3209007312]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3209007312]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2713927983</id>
+    <book>
+  <id type="integer">40037112</id>
+  <isbn>0008241775</isbn>
+  <isbn13>9780008241773</isbn13>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vYBiOM94hIIgItWIWCYFTg</uri>
+  <title>Exactly: How Precision Engineers Created the Modern World</title>
+  <title_without_series>Exactly: How Precision Engineers Created the Modern World</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40037112-exactly</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>2915</ratings_count>
+  <description>Bestselling author Simon Winchester writes a magnificent history of the pioneering engineers who developed precision machinery to allow us to see as far as the moon and as close as the Higgs boson. Precision is the key to everything. It is an integral, unchallenged and essential component of our modern social, mercantile, scientific, mechanical and intellectual landscapes. The items we value in our daily lives - a camera, phone, computer, bicycle, car, a dishwasher perhaps - all sport components that fit together with precision and operate with near perfection. We also assume that the more precise a device the better it is. And yet whilst we live lives peppered and larded with precision, we are not, when we come to think about it, entirely sure what precision is, or what it means. How and when did it begin to build the modern world?&lt;br /&gt;&lt;br /&gt;Simon Winchester seeks to answer these questions through stories of precision's pioneers. Exactly takes us back to the origins of the Industrial Age, to Britain where he introduces the scientific minds that helped usher in modern production: John `Iron-Mad' Wilkinson, Henry Maudslay, Joseph Bramah, Jesse Ramsden, and Joseph Whitworth. Thomas Jefferson exported their discoveries to the United States as manufacturing developed in the early twentieth century, with Britain's Henry Royce developing the Rolls Royce and Henry Ford mass producing cars, Hattori's Seiko and Leica lenses, to today's cutting-edge developments from Europe, Asia and North America.&lt;br /&gt;&lt;br /&gt;As he introduces the minds and methods that have changed the modern world, Winchester explores fundamental questions. Why is precision important? What are the different tools we use to measure it? Who has invented and perfected it? Has the pursuit of the ultra-precise in so many facets of human life blinded us to other things of equal value, such as an appreciation for the age-old traditions of craftsmanship, art, and high culture? Are we missing something that reflects the world</description>
+<authors>
+<author>
+<id>14053</id>
+<name>Simon Winchester</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286848563p5/14053.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286848563p2/14053.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14053.Simon_Winchester]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>158687</ratings_count>
+<text_reviews_count>12467</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56364115</id>
+  <uri>kca://work/amzn1.gr.work.v1.riog39oiHAZpur8Oelw0tQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='303952123' name='2019' review_shelf_id='2358314892' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Feb 13 03:24:50 -0800 2019</date_added>
+  <date_updated>Sat Oct 12 14:39:38 -0700 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2713927983]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2713927983]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2667689439</id>
+    <book>
+  <id type="integer">38212157</id>
+  <isbn>039363499X</isbn>
+  <isbn13>9780393634990</isbn13>
+  <text_reviews_count type="integer">283</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7lqzKxkaTwlJjB6uvKX8gA</uri>
+  <title>Hello World: Being Human in the Age of Algorithms</title>
+  <title_without_series>Hello World: Being Human in the Age of Algorithms</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525784303l/38212157._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525784303l/38212157._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38212157-hello-world</link>
+  <num_pages>246</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>W. W. Norton Company</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>5087</ratings_count>
+  <description>A look inside the algorithms that are shaping our lives and the dilemmas they bring with them.&lt;br /&gt;&lt;br /&gt;If you were accused of a crime, who would you rather decide your sentence—a mathematically consistent algorithm incapable of empathy or a compassionate human judge prone to bias and error? What if you want to buy a driverless car and must choose between one programmed to save as many lives as possible and another that prioritizes the lives of its own passengers? And would you agree to share your family’s full medical history if you were told that it would help researchers find a cure for cancer?&lt;br /&gt;&lt;br /&gt;These are just some of the dilemmas that we are beginning to face as we approach the age of the algorithm, when it feels as if the machines reign supreme. Already, these lines of code are telling us what to watch, where to go, whom to date, and even whom to send to jail. But as we rely on algorithms to automate big, important decisions—in crime, justice, healthcare, transportation, and money—they raise questions about what we want our world to look like. What matters most: Helping doctors with diagnosis or preserving privacy? Protecting victims of crime or preventing innocent people being falsely accused?&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Hello World&lt;/em&gt; takes us on a tour through the good, the bad, and the downright ugly of the algorithms that surround us on a daily basis. Mathematician Hannah Fry reveals their inner workings, showing us how algorithms are written and implemented, and demonstrates the ways in which human bias can literally be written into the code. By weaving in relatable, real world stories with accessible explanations of the underlying mathematics that power algorithms, &lt;em&gt;Hello World&lt;/em&gt; helps us to determine their power, expose their limitations, and examine whether they really are improvement on the human systems they replace.</description>
+<authors>
+<author>
+<id>8365972</id>
+<name>Hannah Fry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448012148p5/8365972.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448012148p2/8365972.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8365972.Hannah_Fry]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>7560</ratings_count>
+<text_reviews_count>907</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>59883978</id>
+  <uri>kca://work/amzn1.gr.work.v1.j8DPLzrOlIdM0qebyQAozg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='260643019' name='2018' review_shelf_id='2311799272' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jan 10 11:16:22 -0800 2019</date_added>
+  <date_updated>Thu Jan 10 11:16:29 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2667689439]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2667689439]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2582378624</id>
+    <book>
+  <id type="integer">7332</id>
+  <isbn>0618391118</isbn>
+  <isbn13>9780618391110</isbn13>
+  <text_reviews_count type="integer">4937</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FFoGWmBlfDgsJT-SIP3_lQ</uri>
+  <title>The Silmarillion</title>
+  <title_without_series>The Silmarillion</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565193934l/7332._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565193934l/7332._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7332.The_Silmarillion</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin Company</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>209164</ratings_count>
+  <description>A number-one New York Times bestseller when it was originally published, THE SILMARILLION is the core of J.R.R. Tolkien's imaginative writing, a work whose origins stretch back to a time long before THE HOBBIT.&lt;br /&gt;Tolkien considered THE SILMARILLION his most important work, and, though it was published last and posthumously, this great collection of tales and legends clearly sets the stage for all his other writing. The story of the creation of the world and of the the First Age, this is the ancient drama to which the characters in THE LORD OF THE RINGS look back and in whose events some of them, such as Elrond and Galadriel, took part. The three Silmarils were jewels created by Feanor, most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. Thereafter, the unsullied Light of Valinor lived on only in the Silmarils, but they were seized by Morgoth and set in his crown, which was guarded in the impenetrable fortress of Angband in the north of Middle-earth. THE SILMARILLION is the history of the rebellion of Feanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy.&lt;br /&gt;This second edition features a letter written by J.R.R. Tolkien describing his intentions for the book, which serves as a brilliant exposition of his conception of the earlier Ages of Middle-earth.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564399522p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564399522p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>8254208</ratings_count>
+<text_reviews_count>126830</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>4733799</id>
+  <uri>kca://work/amzn1.gr.work.v1.FMfNYq2RJVSUvOBhE4dMJA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='260643019' name='2018' review_shelf_id='2227005380' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 03 08:16:52 -0700 2018</date_added>
+  <date_updated>Sat Nov 03 08:16:55 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2582378624]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2582378624]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2350803033</id>
+    <book>
+  <id type="integer">32283133</id>
+  <isbn>0385514239</isbn>
+  <isbn13>9780385514231</isbn13>
+  <text_reviews_count type="integer">15160</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EKzfSvaL2HflCxXDwEJVjA</uri>
+  <title>Origin (Robert Langdon, #5)</title>
+  <title_without_series>Origin</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576370917l/32283133._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576370917l/32283133._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32283133-origin</link>
+  <num_pages>461</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>242336</ratings_count>
+  <description>Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the ultramodern Guggenheim Museum Bilbao to attend a major announcement—the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist whose dazzling high-tech inventions and audacious predictions have made him a renowned global figure. Kirsch, who was one of Langdon’s first students at Harvard two decades earlier, is about to reveal an astonishing breakthrough . . . one that will answer two of the fundamental questions of human existence. As the event begins, Langdon and several hundred guests find themselves captivated by an utterly original presentation, which Langdon realizes will be far more controversial than he ever imagined. But the meticulously orchestrated evening suddenly erupts into chaos, and Kirsch’s precious discovery teeters on the brink of being lost forever. Reeling and facing an imminent threat, Langdon is forced into a desperate bid to escape Bilbao. With him is Ambra Vidal, the elegant museum director who worked with Kirsch to stage the provocative event. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch’s secret. Navigating the dark corridors of hidden history and extreme religion, Langdon and Vidal must evade a tormented enemy whose all-knowing power seems to emanate from Spain’s Royal Palace itself . . . and who will stop at nothing to silence Edmond Kirsch. On a trail marked by modern art and enigmatic symbols, Langdon and Vidal uncover clues that ultimately bring them face-to-face with Kirsch’s shocking discovery . . . and the breathtaking truth that has long eluded us. &lt;i&gt;Origin&lt;/i&gt; is Dan Brown’s most brilliant and entertaining novel to date.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>6852203</ratings_count>
+<text_reviews_count>181308</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>52935032</id>
+  <uri>kca://work/amzn1.gr.work.v1.vWkDCg-hnt_kNH1wX90e7w</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='260643019' name='2018' review_shelf_id='1996823958' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 16:44:49 -0700 2018</date_added>
+  <date_updated>Wed Apr 04 16:45:08 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2350803033]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2350803033]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2339366092</id>
+    <book>
+  <id type="integer">41681</id>
+  <isbn>1884365302</isbn>
+  <isbn13>9781884365300</isbn13>
+  <text_reviews_count type="integer">4229</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.da2qnJN1VJ7nihZxRilgIg</uri>
+  <title>The Jungle</title>
+  <title_without_series>The Jungle</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332140681l/41681._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332140681l/41681._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41681.The_Jungle</link>
+  <num_pages>335</num_pages>
+  <format>Paperback</format>
+  <edition_information>The Uncensored Original Edition</edition_information>
+  <publisher>See Sharp Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>127186</ratings_count>
+  <description>For nearly a century, the original version of Upton Sinclair's classic novel has remained almost entirely unknown. &lt;br /&gt;&lt;br /&gt;When it was published in serial form in 1905, it was a full third longer than the censored, commercial edition published in book form the following year. That expurgated commercial edition edited out much of the ethnic flavor of the original, as well as some of the goriest descriptions of the meat-packing industry and much of Sinclair's most pointed social and political commentary. &lt;br /&gt;&lt;br /&gt;The text of this new edition is as it appeared in the original uncensored edition of 1905. &lt;br /&gt;It contains the full 36 chapters as originally published, rather than the 31 of the expurgated edition. &lt;br /&gt;&lt;br /&gt;A new foreword describes the discovery in the 1980s of the original edition and its subsequent suppression, and a new introduction places the novel in historical context by explaining the pattern of censorship in the shorter commercial edition.</description>
+<authors>
+<author>
+<id>23510</id>
+<name>Upton Sinclair</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1438843258p5/23510.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1438843258p2/23510.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23510.Upton_Sinclair]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>139806</ratings_count>
+<text_reviews_count>7138</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>1253187</id>
+  <uri>kca://work/amzn1.gr.work.v1.nlycjFzS0QZjCBX2K1t3VQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="63691926" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Mar 25 11:34:02 -0700 2018</date_added>
+  <date_updated>Sun Mar 25 11:34:02 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2339366092]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2339366092]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

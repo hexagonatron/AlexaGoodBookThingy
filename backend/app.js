@@ -1,10 +1,9 @@
 const express = require("express");
-const fetch = require("node-fetch");
 require("dotenv").config();
 const OAuth = require('oauth');
-const nodeUrl = require('url');
-const { parseString } = require("xml2js");
-const { connect } = require("http2");
+const XmlToJson = require('./utils/xmlParse.js');
+const fs = require("fs");
+
 
 const PORT = process.env.PORT || 3004
 
@@ -86,23 +85,42 @@ const getToken = () => {
 const token = "IaE450ZwrFTa6CI2MReKQw";
 const token_secret = "zzpp0mHF749fzkwf8yuEzDcl0qIdGl9UTR9DlMenSes";
 
-goodReadsAPI.get(`https://www.goodreads.com/review/list/19779962.xml?v=2&&shelf=read&key=${key}&per_page=20`, token, token_secret, (err, results, response) => {
+goodReadsAPI.get(`https://www.goodreads.com/review/list/19779962.xml?v=2&&shelf=read&key=${key}`, token, token_secret, async (err, results, response) => {
     if (err) return console.log(err);
 
 
+    fs.writeFile("output.xml", results, "utf8", (err) => {if(err) console.log(err)});
 
-    parseString(results, (err, results) => {
-        console.log(results);
+    const responseJson = await XmlToJson(results)
+    console.log(responseJson);
 
-        // console.log(JSON.stringify(results));
+    const books = responseJson.GoodreadsResponse.reviews[0].review.map(review => {
+        return {
+            title: review.book[0].title[0],
+            author: review.book[0].authors[0].author[0].name[0],
+            description: review.book[0].description[0].replace(/<[^>]*>?/gm, ''),
+            published: review.book[0].publication_year[0],
+            pages: review.book[0].num_pages[0],
+        }
+    });
 
-        const bookTitles = results.GoodreadsResponse.reviews[0].review.map(review => review.book[0].title[0]);
+    console.log(books);
+    console.log(JSON.stringify(responseJson.GoodreadsResponse.reviews[0].review[29]))
+    const totalPages = books.reduce((total, book) => total + book.pages, 0);
 
-        console.log(bookTitles);
+    console.log(`Total pages this year: ${totalPages}`);
+    console.log(`Total books this year: ${books.length}`);
+
+})
+
+goodReadsAPI.get(`https://www.goodreads.com/shelf/list.xml?key=${key}&user_id=19779962`, token, token_secret, async (err, results, response) => {
+    if(err) return console.log(err);
 
 
-    })
-    // console.log(response)
+    const json = await XmlToJson(results);
 
 
+    const shelves = json.GoodreadsResponse.shelves[0].user_shelf.map(shelf => { return {name:shelf.name[0], books: shelf.book_count[0]._, id: shelf.id[0]._}});
+
+    console.log(shelves);
 })
