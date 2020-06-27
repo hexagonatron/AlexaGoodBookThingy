@@ -1,0 +1,157 @@
+Trying to get the Amazon test tool to talk to my node server or: why I should stop doing it myself and love the provided tools
+By Ben Fawcett
+
+Node server previously configured with ipfw(a firewall), nginx(A web server) and running on freebsd
+
+Have to configure endpoints of alexa skill to send requests to my node server. Will set up dev.fawcett.xyz for testing
+
+Adding a dns A record to my domain provider to point dev.fawcett.xyz to my static public ip address
+
+Verify working with pings. All good.
+
+Amazon only uses https, requires a signed cert from a CA or upload a self signed cert for testing
+
+Cant set up letsencrypt because isp blocks some ports
+
+lets just upload a self signed cert for now
+
+Generate self signed cert with openssl and uploaded to Amazon
+
+I know my isp blocks incoming ports 80 and 443 so on the alexa tool I'll just tell it the send requests to a port my isp doesn't block (61154)
+
+Add port forwarding to router
+
+watched a youtube tutorial to setup https on nginx to handle ssl, used mozilla nginx tool to generate boilerplate config. Removed some things as per youtube tutorial
+
+Pointed nginx to the certificate I generated in nginx.conf
+
+start node server (at this stage it just console logs the post body of whatever makes a request to it)
+
+tried to connect with local browser, not connecting
+
+ipfw needs a rule to allow connections on 443(https port)
+
+ipfw add 02700 allow tcp from any to me 443
+
+test working on local browser, red padlock (because cert is self signed) but shouldn't be a problem. https is working
+
+Set up basic skill in Alexa tool to see if I can get it to talk sucessfully to my server
+
+Test skill with amazon skill, not able to reach server
+
+What have I messed up?
+
+Is the server accessible from the outside?
+
+Tested on canyouseeme.org Test sucessful, saying it can see a service on port 61154
+
+are the packets from amazon getting into my network?
+
+Run wireshark on my router to see if any packets from amazon are entering network. Nothing.
+
+Bit of googling,
+
+Found a tool to tunnel my local connection to an external address, cutting out my router, firewall and isp
+
+download ngrok and and make account tunnel laptop to ngrok server.
+
+reconfigure amazon endpoint to use ngrok enpoint
+
+Testing from amazon tool, able to hit node on laptop through tunnel
+
+Bit of googling about hosting your own alexa skill
+
+Amazon will ONLY send out packets on port 443 (which my isp blocks), not on a custom port
+
+Send email to isp asking to unblock ports
+
+Wait a day
+
+Isp responds and unblocks ports
+
+Awesome! It'll work for sure now.
+
+Changed port forwarding in router to forward 443 to server
+
+Test 443 is no longer blocked with canyouseeme.org
+
+Service visible on 443. Cool!
+
+change alexa endpoint back to https://dev.fawcett.xyz and test
+
+Still not getting any hits to node server
+
+lets see if packets are getting into the network at least
+
+packet capture on router, test with alexa tool.
+
+Packets from Amazon getting into network!
+
+Issue with my config?
+
+Maybe issue is with self signed cert, lets setup lets encrypt
+
+install certbot and run
+
+reconfigure nginx and point to newly generated ssl cert
+
+test in browser. Now geting green padlock. Yay!
+
+test with alexa tool. Still nothing hitting node server.
+
+Maybe it's an issue when it comes from outside the network, have only tested ssl from inside network
+
+Pull out old laptop, install postman, hotspot to mobile and try to send packets.
+
+Packets are getting through
+
+What is different about packets coming from Amazon vs packets coming from my old laptop
+
+Packet capture again to compare difference from Amazon to from laptop with postman
+
+In wireshark notice 'Alert (Level: Fatal, Description: handshake failure)'  on packets coming from Amazon
+
+Google the error, stack overflow post about ssl_dhparam in nginx config. Ah! That was something the youtube video deleted when configuring ssl with nginx
+
+Start generating dhparam with: openssl dhparam -out . 4096
+It prints, "This will take a wile"
+No worries, I have time. Make a coffee watch a youtube video.
+Still generating. Gee, how long is a while, do some googling.
+
+Varying results. Ah fuck it, ctrl + c and restart with 2048 bit length
+
+Watch another youtube video. Key is now generated
+
+Update nginx config with reference to newly generated dhparam
+
+Maybe now it'll work. Nope, still no hits to node server from Amazon testing tool
+
+Are there logs for ipfw and nginx somewhere? Maybe there are clues there.
+
+Google how to enable logging for both
+
+Restart nginx and ipfw
+
+Now I can't even hit server from laptop. What'd I break?
+
+list ipfw rules, rule for port 443 is missing. Oh, I guess they don't persist after restart if you use the ipfw add command
+
+Add rule permenantly with sysrc firewall_myservices="22/tcp 80/tcp 443/tcp"
+
+Able to hit server from local machine, try again from Amazon, nothing
+
+Checked nginx error logs,  SSL_do_handshake() failed (SSL: error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher) while SSL handshaking,
+
+Hmm no shared ciphers? At least I know for sure what the problem is. The cipher list was copied from the mozilla nginx config tool. Oh well, let's grab another config from somewhere
+
+changed nginx config from:
+ssl_ciphers ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384;
+
+to:
+ ssl_ciphers 'ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS';
+
+Restart nginx and test from Amazon tool.
+
+IT WORKS! HALLELUJAH!!
+
+Now to actually start writing the app....

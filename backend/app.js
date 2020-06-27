@@ -89,7 +89,7 @@ goodReadsAPI.get(`https://www.goodreads.com/review/list/19779962.xml?v=2&&shelf=
     if (err) return console.log(err);
 
 
-    fs.writeFile("output.xml", results, "utf8", (err) => {if(err) console.log(err)});
+    // fs.writeFile("output.xml", results, "utf8", (err) => {if(err) console.log(err)});
 
     const responseJson = await XmlToJson(results)
     console.log(responseJson);
