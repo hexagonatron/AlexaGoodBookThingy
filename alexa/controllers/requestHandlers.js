@@ -1,4 +1,8 @@
-//Handles requests and intents
+const apiRequests = require("./apiRequests");
+
+//Hardcoded testing variables
+const myGRUserId = "19779962"
+const jamGRUserId = "75771180"
 
 const LaunchRequestHandler = {
     canHandle(handlerInput) {
@@ -24,12 +28,14 @@ const BooksInYearHandler = {
         return handlerInput.requestEnvelope.request.type === 'IntentRequest'
             && handlerInput.requestEnvelope.request.intent.name === 'BooksInYear';
     },
-    handle(handlerInput) {
+    async handle(handlerInput) {
 
         const year = handlerInput.requestEnvelope.request.intent.slots.year.value;
 
+        console.log(`Getting books read in ${year}`);
+
         //Call goodreads API
-        const numberOfBooks = 10;
+        const numberOfBooks = await apiRequests.getNumberBooksReadByYear(myGRUserId, year);
 
         const speechText = `You <w role="amazon:VBD">read</w> ${numberOfBooks} books in ${year}`;
 
@@ -46,12 +52,12 @@ const LastBookReadHandler = {
         return handlerInput.requestEnvelope.request.type === 'IntentRequest'
             && handlerInput.requestEnvelope.request.intent.name === 'LastBookRead';
     },
-    handle(handlerInput) {
+    async handle(handlerInput) {
 
         //Call goodreads API
-        const lastBookRead = `War and Peace by Leo Tolstoy`
+        const lastBookRead = await apiRequests.getLastBookRead(myGRUserId);
 
-        const speechText = `The last book you <w role="amazon:VBD">read</w> was ${lastBookRead}`;
+        const speechText = `The last book you <w role="amazon:VBD">read</w> was ${lastBookRead.title} by ${lastBookRead.author}`;
 
         console.log(speechText)
         return handlerInput.responseBuilder
@@ -66,14 +72,12 @@ const ReadMoreThanPersonHandler = {
         return handlerInput.requestEnvelope.request.type === 'IntentRequest'
             && handlerInput.requestEnvelope.request.intent.name === 'ReadMoreThanPerson';
     },
-    handle(handlerInput) {
+    async handle(handlerInput) {
 
         const otherPersonName = handlerInput.requestEnvelope.request.intent.slots.person.value || `<sub alias="jamilla">Jamila</sub>`;
 
         //Call goodreads API
-        const numberBooksYouRead = 7;
-        const numberBooksPersonRead = 1;
-
+        [numberBooksYouRead, numberBooksPersonRead] = await apiRequests.compareBooksReadForYear(myGRUserId, jamGRUserId, new Date().getFullYear());
 
         const winningPhrases = [
             "you ripper",

@@ -33,7 +33,6 @@ const getToken = () => {
         const authUrl = `http://goodreads.com/oauth/authorize?oauth_token=${token}`
 
         console.log(authUrl);
-        //CCr7U4CJPycZtMvGzdLB0g
 
         app.get("/token", (req, res) => {
             const { oauth_token, authorize } = req.query;
@@ -82,8 +81,8 @@ const getToken = () => {
 
 // });
 
-const token = "IaE450ZwrFTa6CI2MReKQw";
-const token_secret = "zzpp0mHF749fzkwf8yuEzDcl0qIdGl9UTR9DlMenSes";
+const token = "";
+const token_secret = "";
 
 goodReadsAPI.get(`https://www.goodreads.com/review/list/19779962.xml?v=2&&shelf=read&key=${key}`, token, token_secret, async (err, results, response) => {
     if (err) return console.log(err);
