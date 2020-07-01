@@ -30,7 +30,7 @@ const BooksInYearHandler = {
     },
     async handle(handlerInput) {
 
-        const year = handlerInput.requestEnvelope.request.intent.slots.year.value;
+        const year = handlerInput.requestEnvelope.request.intent.slots.year.value || new Date().getFullYear();
 
         console.log(`Getting books read in ${year}`);
 
